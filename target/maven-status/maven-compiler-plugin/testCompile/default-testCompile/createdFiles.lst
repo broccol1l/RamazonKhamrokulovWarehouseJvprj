@@ -1,0 +1,5 @@
+com\myproject\warehouse\dao\CsvProductDaoImplTest.class
+com\myproject\warehouse\entity\criteria\RangeTest.class
+com\myproject\warehouse\controller\command\FindCommandTest.class
+com\myproject\warehouse\entity\criteria\PriceParameterTest.class
+com\myproject\warehouse\service\ProductServiceImplTest.class

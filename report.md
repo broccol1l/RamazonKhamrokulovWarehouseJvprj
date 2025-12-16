@@ -92,5 +92,5 @@ This project implements "Ideas Worth Implementing" to earn bonus points:
 
 ### 4. Final Results (Deliverables)
 
-1.  **Git Repository:** `(insert your GitHub link here)`
+1.  **Git Repository:** `https://github.com/broccol1l/RamazonKhamrokulovWarehouseJvprj`
 2.  **Progress Report:** This file (`report.md`)
